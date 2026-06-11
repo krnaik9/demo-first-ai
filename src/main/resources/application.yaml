@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: demo-first-ai
+
+  ai:
+    google:
+      genai:
+        api-key: ${GCP_API_KEY}

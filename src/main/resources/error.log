@@ -1,0 +1,3 @@
+java.lang.NullPointerException: Cannot invoke "User.getName()" because "user" is null
+    at com.demo.UserService.getUser(UserService.java:25)
+    at com.demo.UserController.getUser(UserController.java:10)
